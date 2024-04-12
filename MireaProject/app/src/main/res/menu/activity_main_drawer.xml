@@ -16,5 +16,9 @@
             android:id="@+id/nav_web"
             android:title="Web"
             />
+        <item
+            android:id="@+id/nav_worker"
+            android:title="Worker"
+            />
     </group>
 </menu>
