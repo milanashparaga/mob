@@ -20,5 +20,21 @@
             android:id="@+id/nav_worker"
             android:title="Worker"
             />
+        <item
+            android:id="@+id/nav_compass"
+            android:title="Compass"
+            />
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Camera"
+            />
+        <item
+            android:id="@+id/nav_microphone"
+            android:title="Microphone"
+            />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile"
+            />
     </group>
 </menu>
