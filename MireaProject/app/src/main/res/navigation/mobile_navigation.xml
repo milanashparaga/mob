@@ -50,4 +50,14 @@
         android:name="ru.mirea.shparaga.mireaproject.WorkingWithFiles"
         android:label="WorkingWithFiles"
         tools:layout="@layout/fragment_working_with_files" />
+    <fragment
+        android:id="@+id/nav_networkresource"
+        android:name="ru.mirea.shparaga.mireaproject.NetworkResource"
+        android:label="NetworkResource"
+        tools:layout="@layout/fragment_network_resource" />
+    <fragment
+        android:id="@+id/nav_shop"
+        android:name="ru.mirea.shparaga.mireaproject.Shop"
+        android:label="Shop"
+        tools:layout="@layout/fragment_shop" />
 </navigation>
